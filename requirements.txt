@@ -10,3 +10,11 @@ arxiv
 wikipedia
 langchain_tavily
 langgraph-cli[inmem]
+fitz
+PyMuPDF
+Pillow
+transformers
+torch
+numpy
+scikit-learn
+faiss-cpu
