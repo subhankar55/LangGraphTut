@@ -18,3 +18,7 @@ torch
 numpy
 scikit-learn
 faiss-cpu
+sentence-transformers
+typesense
+langchain_openai
+pypdf
